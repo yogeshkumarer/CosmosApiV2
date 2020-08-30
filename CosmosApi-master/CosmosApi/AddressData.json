@@ -1,0 +1,26 @@
+[
+  {
+    "id": "0001",
+    "houseNumber": "1/4",
+    "AddrLine1": "Soughton Avenue",
+    "AddrLine2": "",
+    "City": "Edinburgh",
+    "ZipCode": "EH11 4UE"
+  },
+  {
+    "id": "0002",
+    "houseNumber": "1/7",
+    "AddrLine1": "Talent Avenue",
+    "AddrLine2": "Second cross",
+    "City": "London",
+    "ZipCode": "EC1A 2DP"
+  },
+  {
+    "id": "0003",
+    "houseNumber": "55",
+    "AddrLine1": "Orsman Rd",
+    "AddrLine2": "",
+    "City": "London",
+    "ZipCode": "WC2N 5DU"
+  }
+]
